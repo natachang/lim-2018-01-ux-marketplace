@@ -318,3 +318,9 @@ que deberías alcanzar al finalizar este proyecto:
 |Trabajo en equipo| 4 |
 |Comunicación eficaz| 4 |
 |Presentaciones| 4 |
+
+
+
+
+
+
