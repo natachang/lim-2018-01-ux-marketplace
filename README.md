@@ -1,326 +1,172 @@
-# Plataforma de ventas en línea
+ # MarketPlace "La Cachanguería-Café"
 
-## Preámbulo
+![caaaaaaa](https://user-images.githubusercontent.com/30779762/45199888-ca2fb300-b233-11e8-9426-657df3c345f8.png)
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
-
-## Introducción
-
-### “Nuevo portal de e-commerce”
-
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
-
-- [Sr. Roos](https://www.facebook.com/Sr-Roos-879800158792372/)
-- [Sophie Crown](https://www.facebook.com/sophiecrownboutique/) 
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
-- [Closet911](https://www.facebook.com/closet911.pe/)
-
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **dos vistas como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+## 1 .Prólogo 
+La "cachanga" es una especie de galleta rústica, crocante hecha principalmente a base de harina de trigo.Uno de los panes típicos en el norte del Perú donde se come hasta en el desayuno como "pan de cada día" ,pero, ¿qué sucede en nuestra  capital? Todo lo contrario.
 
 
-## Hacker edition
+ A fines del 2014, un proyecto familiar  toma esta situación para darle un giro compartiendo su tradición  y así impulsar esta sabrosa masa artesanal por fuera agregando relleno por dentro. 
+ ![cachangueria](https://user-images.githubusercontent.com/30779762/45176056-8194dd00-b1d4-11e8-8ca9-afa2a65beb87.jpg)
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+## ¡Noticias de Agosto 2018!
+La Cachanguería-Café nos contaca a través de nuestra agencia |DOBLE C| (Natalie Chang- Andrea Carretero;dos Ux Designer) y requiere de nuestro asesoramiento en la creación de  un portal virtual  donde sus consumidores compren los  productos respectivos (cachangas) sin ningún intermediario. 
+ 
+y es aquí donde..
+#### empieza  nuestra historia :
 
-- Desarrolla **todo el flujo de tu propuesta**
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
+### 1.1 .Primero lo primero 
+Como primera acción buscamos toda la información  que puede servirnos como contexto en *San Google*- blogs-TripAdvisor y así para cuando tengamos la entrevista( ya iremos contando eso en el camino) con el dueño de la cafetería ya vamos preparadas con pequeños detalles y así conectar  con nuestro cliente demostrando que tomó una decisión al contactarnos. 
+### Datos de la empresa -
+°La idea se remonta a los años 80 con la masa misteriosa que realizaba la abuela en Chiclayo, desde ese entonces, el nieto mayor decide emprender este negocio compartiendo la tradición para todos los amantes de lo tradicional teniendo como ideal una buena y real atención  para con todos sus consumidores .   
+°Único local ,por ahora, ubicados en Surco,misma avenida Alfredo Benavides 3730.  
+°Puntuación casi perfecta en Facebook, red social como fuente de publicaciones en general.
+![puntuacionn](https://user-images.githubusercontent.com/30779762/45192690-6bf0d900-b20f-11e8-869a-ac612956536e.png)       
+°Reconocidos por  el noticiero televisivo  
+ *90 Matinal* 
+https://es-la.facebook.com/lacachangueria/videos/810929355768495/
 
-- Escribe un post en Medium contando tu proceso de investigación
 
-## Evaluación
+![la-cachangueria](https://user-images.githubusercontent.com/30779762/45191635-1239e000-b20a-11e8-83a7-a3c1272bb000.jpg)
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+## 2 .Objetivos planteados en este proyecto
 
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
-
-### Habilidades blandas
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+Nosotras buscamos continuar la agradable y buena experiencia de usuario que ya existe fisicamente en el local entendiendo que es lo que se requiere plasmándola en la elaboración de la plataforma de ventas en línea , es decir, transformar el proceso de compra del consumidor mediante un e-commerce donde las necesidades del cliente y usuario sean  entendidas.
 
 
 
+## Presentes en video: 
+En este video se apreciará como realizamos el proyecto mientras comentamos reflexiones y pensamientos que atravesamos en todo este mes junto con nuestra demostración del prototipo navegable .
+
+![loom](https://user-images.githubusercontent.com/30779762/45218851-958d1d00-b26e-11e8-80ec-d7112b615745.png)
+
+(https://www.useloom.com/share/9dad2047fac24c969165d67b4157acea)
+
+## 3 .Implementando actividades-herramientas
+
+![justificacion de actividaddes 1]
+![justificacion de actividaddes 1](https://user-images.githubusercontent.com/30779762/45199531-cdc23a80-b231-11e8-95cc-0c704783f1e3.png)
+
+
+![justificacion de actividaddes 2](https://user-images.githubusercontent.com/30779762/45198589-e714b800-b22c-11e8-8a75-da5f91a87ad3.png)
+
+
+Para el proyecto contamos con 300 puntos
+así que tomamos decisiones .Utilizamos 290 pts en las herramientas pertientes que tod@ Ux debe aplicar y tener impregnado al momento de generar un proyecto como este ( existen más herramientas,solo se comenta de las que se visualizan).
+ 
+ #### Decidimos seguir usando trello,amoldable , manejable y con horas para terminar pequeñas tareas :
+ ![trello](https://user-images.githubusercontent.com/30779762/45213663-ca44a880-b25d-11e8-96e7-d853ce3b15ed.png)
+
+
+### 3.1 .Cuadro de Benchmarking 
+Antes de "meternos de lleno" y pensar en una solución ,queremos saber que ocurre con las demás empresas, "la competencia" ,volver a aplicar nuestra curiosidad e indagar en todos los artículos digitales posibles.¿Cuentan con su propia página web? ¿ es *responsive* (el diseño se adapta a las medidas de un teléfono) ? ¿Realizan delivery? Si queremos resolver un problema entonces debemos de saber si ellos también lo tienen ó no solo saber si ya lo arreglaron ,queremos saber cómo,informarnos de todo el contexto comercial. Analizamos a empresas del Perú, España y Argentina para tener horizontes bien establecidos tanto aquí como fuera de nuestro país.
+
+ #### Cuadro de Benchmarking realizado con 7 empresas nacionales e internacionales :
+ 
+![benchmark imagen lllogos](https://user-images.githubusercontent.com/30779762/45201746-17b01e00-b23c-11e8-97e4-fbd14b021312.png)
 
 
 
+  https://docs.google.com/document/d/15zeLVxaLvjk_Osj85_0UM6iPjWShtlOlRKHSC94Xic0/edit?usp=sharing
+
+ #### Información obtenida en letras :
+https://docs.google.com/document/d/1hO_Jj9RfrjWGKYTeofloFoF3ZN3W4dXcOfLhcB6Rtx0/edit?usp=sharing
+![analisis del benchmark diapo](https://user-images.githubusercontent.com/30779762/45201479-22b67e80-b23b-11e8-8432-b9cb93640478.png)
+
+
+## 4 .Conociendo al cliente:
+
+Miguel Angel Chavez  es el famoso nieto del que comentamos al principio.El visionó esta idea y la está realizando. 
+
+Para seguir con nuestra etapa de *research* coordinamos con Miguel Angel y pactamos nuestra primera cita para recolectar toda la información posible a su percepción junto con la causa y motivos de trabajar con Glovoo y así extraer todos los  *insights* que podamos.
+
+![ddd](https://user-images.githubusercontent.com/30779762/45200220-68704880-b235-11e8-9468-580d870c16fb.png)
+[Esta es una captura de pantalla del video que grabamos.]
+
+*Luego de haberte comentado nuestros objetivos ,plantearte la solución y mencionarte las herramientas que utilizarémos además de darte nuestro asesoramiento en cada punto ya dicho ,que opinión tienes respecto a este proyecto?
+
+*Rpta Miguel Angel: "Me parece muy importante,interesante porque no todas las empresas realizan este trabajo de MarketPlace interno ya que mayormente la compra está basada por delivery pero a través de llamadas al local y que ustedes implementen la opción de que mis clientes vean la carta ,vean los precios y que mediante un click puedan tener un pedido en lista .La experiencia que se lleven de esta plataforma web me parece a mi parecer tan importante como la que brindo mirando cara a cara a todos los consumidores de La Cachanguería. Gracias  a ustedes por esta experiencia ."*
+
+#### Nuestra guía de preguntas para Miguel Angel: 
+https://docs.google.com/document/d/1-6X5X6wuhkC5i5OKLKa1cQRkjrf1gy6OwauwceoIu24/edit?usp=sharing
+
+![entrevist](https://user-images.githubusercontent.com/30779762/45200265-a2d9e580-b235-11e8-8b77-aa7e9bb521ad.png)
+
+### 4.1 .Conclusiones :
+
+.La Cachanguería no cuenta con su propia página web. 
+.Sus productos son desde  café de Villarica preparado con una máquina en el momento ,postres elaborados por su madre, jugos ,ensalada de frutas y sus famosas cachangas se dividen en :  
+  +Queso
+  +Mixta
+  +Pollo
+  +Asado
+  +Lomo al jugo
+  +Ají de Gallina
+  +Dulce
+  +Con helado 
+.Hace 3 meses trabajan con Glovo debido al aumento de consumidores generarando entradas extrar.
+.Los envíos por delivery son solo ingresando a la app de Glovo.
+.Tiene un mayor énfasis en la atención a sus consumidores ya que es su principal fortaleza como empresa.
+.La historia de como se genera esta idea tiene impacto respecto a los clientes, esta sería una de las primeras premisas que exista  un 89 % de clientes asiduos generados luego de la primera experiencia al consumir aquí.
+.La Cachanguería nace con un público objetivo distinto del que se tiene a medianos del 2018.
+
+*Al concluir la entrevista y planteamos:
+![glovo consecuencias](https://user-images.githubusercontent.com/30779762/45206706-47b2ed80-b24b-11e8-960f-fa6468299ace.png)
+
+### demás fotos de la entrevista: https://drive.google.com/drive/folders/1teeE4sDZj7vXFohS_3BNIYOkVwIToXkV?hl=es
+##### pd:Tuvimos la autorización para colocar su nombre y foto respectiva durante todo este camino.
+
+## 5 .Entrevista con usuarios:
+Para entender el contexto quisimos entrevistar a 6 personas que hayan realizado alguna compra a través de Facebook ,Mercado libre o cualquier Marketplace.
+Seis ya que queríamos tener una opinión extra a la mínima solo para tener resultados más certeros.
+
+Nuestra guía en escrito ya que salimos con " lapiz y papel" para realizar todo los apuntes en equipo.
+
+Implementamos la ténica que se usa para testear,una entreistaba, realizaba las preguntas y la conversación a profundidad mientras la otra iba apuntando TODO lo que observaba en ese momento así no se "nos escapaba" algo.
+
+![guia-escrito](https://user-images.githubusercontent.com/30779762/45209428-9f088c00-b252-11e8-99fa-4472991c3a8d.png)
+
+
+![guia usuarios](https://user-images.githubusercontent.com/30779762/45209661-25bd6900-b253-11e8-819b-7e0c6b35bb34.png)
+ 
+  (Solo primera parte fue escrita en nuestra herramienta *Canva*)
+  Parte que no se observó en nuestra demo final :
+![img_6831](https://user-images.githubusercontent.com/30779762/45211456-f3fad100-b257-11e8-992d-5020312d9a05.JPG)
+![img_6830](https://user-images.githubusercontent.com/30779762/45211458-f3fad100-b257-11e8-8a39-2e9bb64d41aa.JPG)
+
+Documentos en nuestro drive :
+https://docs.google.com/document/d/1vnCmcDt9qWBNxDeN2dXcXkP4lqY68NlOnuO3KMQujBk/edit?usp=sharing
+
+
+![afifiny evidencia](https://user-images.githubusercontent.com/30779762/45213271-af256900-b25c-11e8-85b8-92d3ed3b300d.png)
+ Realizamos una herramienta MUY MUY ÚTIL para poder sintetizar la información recogida por los usuarios  mediante la organización de categorías según diferentes rubros .
+
+![abs de data- de affinity map](https://user-images.githubusercontent.com/30779762/45213270-af256900-b25c-11e8-9f92-3f5cbf540f75.png)
+
+ Además de estas conclusiones pudimos observar las gesticulaciones de todos mientras respondían la famosa pregunta ¿Qué opinas sobre la compra online? Conociendo al Perú y cultura de todos al momento de adquirir un producto ,cual sería tu postura.
+
+### 5.1 .Conoce a nuestro arquetipo=usuario
+Concluyendo con todas las personas que conversamos de todas sus experiencias decidímos colocar a Abel (también nos autorizó en colocar su información) - cliente real y asiduo.
+
+![user persona](https://user-images.githubusercontent.com/30779762/45214465-24df0400-b260-11e8-943e-ed1b610e6431.png)
+### 6 .¿Cuál es el sentir de un usuario al momento de realizar una comprar a través de una página de Facebook?
+Decidimos hacer este *journey* con los *pain and gain points* con la experiencia en facebook ya que nuestro cliente realiza todas sus operaciones y comparte cada publicación con la comunidad "Cachanguera" 
+![custome j map](https://user-images.githubusercontent.com/30779762/45214738-e138ca00-b260-11e8-9619-45b6fd6ab9b6.png)
+
+### 7  .Definición de la solución/producto
+
+Al encontrar la falta de confianza y seguridad de los usuarios por malas experiencias en distintos portales como Wish, Alibaba, Mercado libre, entre otros. 
+ 
+Ahora, nuestros usuarios entrevistados quieren imágenes reales, quieren encontrar precios . En Glovo no existen imágenes al momento de pedir ,es decir, solo las personas que ya conocen la cachangas podrían reconocer los rellenos sin necesidad de ver unaa imagen y/o descripción. 
+
+Aquí un cuadro para visualizar la solución: 
+![solucion](https://user-images.githubusercontent.com/30779762/45216117-19daa280-b265-11e8-8f95-4cda8423a47f.png)
+
+### Prototipando en alta fidelidad 
+
+Nuestro prototipo navegable , realizado con *figma* https://www.figma.com/proto/R8VmpFizHxOHiWYx1fodrFMD/Versi%C3%B3n-Mobile?node-id=0%3A1&scaling=scale-down
+
+
+ ### Compartiendo con desarrolladores
+
+ https://slack-redir.net/link?url=https%3A%2F%2Fzpl.io%2FbznoLR4
