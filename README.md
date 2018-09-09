@@ -38,7 +38,7 @@ Nosotras buscamos continuar la agradable y buena experiencia de usuario que ya e
 ## Presentes en video: 
 En este video se apreciará como realizamos el proyecto mientras comentamos reflexiones y pensamientos que atravesamos en todo este mes junto con nuestra demostración del prototipo navegable .
 
-![Ver el video](https://www.useloom.com/share/e144f4b593484915bdfce62d7ff2182c)
+https://www.useloom.com/share/e144f4b593484915bdfce62d7ff2182c
 
 ## 3 .Implementando actividades-herramientas
 
@@ -167,4 +167,4 @@ Nuestro prototipo navegable , realizado con *figma* https://www.figma.com/proto/
 
  ### Compartiendo con desarrolladores
 
-https://zpl.io/scene/b6v0rWj
+https://zpl.io/bznoLR4
