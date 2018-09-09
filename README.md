@@ -38,9 +38,7 @@ Nosotras buscamos continuar la agradable y buena experiencia de usuario que ya e
 ## Presentes en video: 
 En este video se apreciará como realizamos el proyecto mientras comentamos reflexiones y pensamientos que atravesamos en todo este mes junto con nuestra demostración del prototipo navegable .
 
-![loom](https://user-images.githubusercontent.com/30779762/45218851-958d1d00-b26e-11e8-80ec-d7112b615745.png)
-
-(https://www.useloom.com/share/9dad2047fac24c969165d67b4157acea)
+![Ver el video](https://www.useloom.com/share/e144f4b593484915bdfce62d7ff2182c)
 
 ## 3 .Implementando actividades-herramientas
 
@@ -169,4 +167,4 @@ Nuestro prototipo navegable , realizado con *figma* https://www.figma.com/proto/
 
  ### Compartiendo con desarrolladores
 
- https://slack-redir.net/link?url=https%3A%2F%2Fzpl.io%2FbznoLR4
+https://zpl.io/scene/b6v0rWj
