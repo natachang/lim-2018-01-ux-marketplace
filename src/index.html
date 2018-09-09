@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+    <link rel="stylesheet" media="(min-width: 800px)" href="css/style.css" />
     <title>La Cachanguería</title>
 </head>
 
@@ -32,67 +33,115 @@
     </header>
 
     <div class="nav-menu ">
-        <img class="home inline" src="images/home.png" alt="home">
-        <img class="history inline" src="images/history.png" alt="history">
-        <img class="user inline" src="images/user.png" alt="user-account">
-        <img class="phone inline" src="images/phone-contact.png" alt="phone-contact">
+        <img id="btn-home" class="home inline tablinks hoverable" src="images/home.png" alt="home">
+        <img id="btn-history" class="history inline tablinks hoverable" src="images/history.png" alt="history">
+        <img class="user inline hoverable" src="images/user.png" alt="user-account">
+        <img class="phone inline hoverable" src="images/phone-contact.png" alt="phone-contact">
     </div>
 
-    <section id="home">
+    <section id="home" class="tabcontent show">
         <button class="btn-style btn-1-position inline">CACHANGAS</button>
         <button class="btn-style btn-2-position inline">COMBOS</button>
 
-        <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+        <div class="w3-main w3-content w3-padding" style="max-width:1300px;margin-top:100px">
             <!-- First Photo Grid-->
             <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de queso.jpg" alt="cachanga-de-queso" style="width:100%">
-                    <h3>"La de cajón"</h3>
+                    <h4>"La de cajón"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga mixta.PNG" alt="cachanga-mixta" style="width:100%">
-                    <h3>"La mixta"</h3>
+                    <h4>"La mixta"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de pollo.jpg" alt="cachanga-de-pollo" style="width:100%">
-                    <h3>"Pollito"</h3>
+                    <h4>"Pollito"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de asado.jpg" alt="Asado" style="width:100%">
-                    <h3>"Asado"</h3>
+                    <h4>"Asado"</h4>
                 </div>
             </div>
 
             <!-- Second Photo Grid-->
             <div class="w3-row-padding w3-padding-16 w3-center">
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de lomo al jugo.jpg" alt="cachanga-de-lomo-al-jugo" style="width:100%">
-                    <h3>"Pero que lomazo"</h3>
+                    <h4>"Pero que lomazo"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de aji de gallina.jpg" alt="cachanga-de-aji-de-gallina" style="width:100%">
-                    <h3>"Ají de gallina"</h3>
+                    <h4>"Ají de gallina"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga de pollo a la brasa.PNG" alt="cachanga-de-pollo-a-la-brasa" style="width:100%">
-                    <h3>"Pollo a la brasa"</h3>
+                    <h4>"Pollo a la brasa"</h4>
                 </div>
-                <div class="w3-quarter w3-card">
+                <div class="w3-quarter w3-card hoverable">
                     <img class="img-size" src="images/cachanga dulce.jpg" alt="cachanga-dulce" style="width:100%">
-                    <h3>"Ponte dulce"</h3>
+                    <h4>"Ponte dulce"</h4>
+
                 </div>
             </div>
         </div>
+
+
+
+
     </section>
 
-    <footer class="info-contact">
-        <p class="info1"> Horarios de atención: </p> <br>
+
+    <section id="our-history" class="tabcontent hidden">
+
+        <section>
+            <h2 class="inline-1 story-title">Como empezó todo ...</h2>
+            <h6 class="inline-1 story-text">Todo nace desde que la abuelita de la familia
+                <br>
+                <br> preparaba las famosas "cachangas" en casa y
+                <br>
+                <br> sus nietos la veían hacerlas. Años más tarde
+                <br>
+                <br> éstos deciden dar a conocer al mundo las
+                <br>
+                <br> cachangas, pero con la receta única de su 
+                <br> 
+                <br> abuelita
+            </h6>
+        </section>
+
+        <div class="w3-row-padding w3-padding-16 w3-center">
+            <section class="card-panel cont-img">
+                <img class="section-img responsive-img" src="images/local-la-cachanguería.jpg" alt="local-la-cachanguería">
+                <br>
+                <br>
+                <h4 class="business-title">
+                    <strong>"La Cachanguería Café"</strong>
+                </h4>
+                <h5>
+                    <strong>Un negocio familiar</strong>
+                </h5>
+                <img class="family-icon" src="images/family-icon.png" alt="ícono-de-familia">
+            </section>
+        </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+    </section>
+
+    <footer>
+        <p class="info1"> Horarios de atención: </p>
+        <br>
         <p class="info2"> Lun-sab: 13:00 a 22:00h y Dom: 16:30 a 20:30h </p>
-        <a class="info3 inline">@COPYRIGHT <br>
-            La Cachanguería-Café</a>
+        <a class="info3 inline">@COPYRIGHT - La Cachanguería Café</a>
     </footer>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/main.js"></script>
 </body>
 
 </html>

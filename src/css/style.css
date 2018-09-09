@@ -52,7 +52,7 @@
         margin: 0.5% 0 0 -60%;
         padding-top: 4%; 
         width: 100px;
-        height: 80px;
+        height: 18px;
         border-radius: 10px;
         background-blend-mode: luminosity;
         background-image: linear-gradient(red);
@@ -76,6 +76,7 @@
         line-height: normal;
         letter-spacing: normal;
         color: #fff;
+      
     }
     
     .nav-menu {
@@ -123,21 +124,21 @@
     }
     
     .img-size {
-    
         height: 200px;
         line-height: 200px;
     }
     
-    .info-contact {
+    footer {
         margin-top: 7.5%;
         width: 100%;
         height: 120px;
         background: #992020;
         box-shadow: inset 0 4px 15px 0 rgba(196, 196, 196, 0.25);
+
+       
     }
 
     .info1 {
-
         font-size: 20px;
         color: #fff;
         margin: 0 0 0 13%;
@@ -153,5 +154,217 @@
         font-size: 20px;
         color: #fff;
         margin: -4% 14% 0 0;
-
     } 
+
+  .show {
+    display: block;
+  }
+
+  .hidden {
+    display: none;
+  }
+  
+
+
+
+.story-title {
+    margin: 0 0 0 10%;
+    font-family: sedan;
+    color: #000;
+}
+
+.story-text {
+    margin: 6.5% 0 0 -29.5%;
+    text-align: left;
+    font-family: roboto;
+    font-size: 30px;
+}
+
+  .cont-img {
+
+    width: 500px;
+    height: 600px;
+    margin: -33% 0 0 55%;
+}
+
+.section-img {
+    height: 300px;
+    line-height: 300px;
+    width: 150%;
+    margin-top: -7%;
+}
+
+.business-title {
+    color: #992020;
+}
+
+.family-icon {
+    margin-top: 2.5%;
+}
+
+  @media screen and (max-width: 600px) {
+
+    .home {
+        margin: 6.5% 82% 0 0;
+        width: 10%;
+    }
+
+    .history {
+        margin: 6.5%-33% 0 0;
+        width: 10%;
+    }
+    
+    .user {
+        margin: 6.5% -59% 0 0;
+        width: 10%;
+    }
+
+    .phone {
+        margin: 6.5% -82% 0 0;
+        width: 10%;
+    }
+
+    .company-title {
+        margin: 5.2% 7.85% 0 0;
+        font-family: Sedan;
+        color: #fff;
+        font-size: 30px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+    }
+
+    .btn-style {
+
+        width: 131px;
+        height: 36px;
+        border-radius: 20px;
+        background-color: #f2cf16;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);    
+        font-family: Sedan;
+        font-size: 18px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+
+    .btn-1-position {
+            margin: -16% 54% 0 0;
+        }
+        
+    .btn-2-position {
+            margin: -16% 11% 0 0;
+        }
+
+    .phone-receiver {
+            margin: 3.2% 0 0 55%;
+       }
+       
+    .phone-number {
+           margin: -3.5% 1% 5% 64%;
+           width: 82px;
+           height: 16px;
+           font-family: Roboto;    
+           font-size: 14px;
+           font-weight: normal;
+           font-style: normal;
+           font-stretch: normal;
+           line-height: normal;
+           letter-spacing: normal;
+           color: #000000;
+       }
+       
+     .shopping-bag {
+           margin: -7.5% 3% 0 0;
+       }
+
+       .logo-container {
+        margin: 2% 0 0 -79.2%;
+        padding-top: 4%; 
+        width: 100px;
+        height: 80px;
+        border-radius: 10px;
+        background-blend-mode: luminosity;
+        background-image: linear-gradient(red);
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    }
+    
+    .company-logo {
+        margin: -10% 5% 0 0;  
+        width: 90px;
+        height: 70px;
+        border-radius: 10px;
+    }
+
+    .nav-menu {
+    
+        width: 100%;
+        height: 90px;
+        margin-top: 3%;
+        border-top: 2px lightgray solid;
+        border-bottom: 2px lightgray solid;
+    }
+
+    .info1 {
+        font-size: 13px;
+        color: #fff;
+        margin: 0 0 0 10%;
+    }
+
+    .info2 {
+        font-size: 13px;
+        color: #fff;
+        margin: 0 0 0 10%;
+        
+    }
+
+    .info3 {
+        font-size: 13px;
+        color: #fff;
+        margin: 5% 15% 0 0;
+    } 
+
+    .story-title {
+        margin: 9% 0 0 5%;
+        padding-top: 2%;
+        font-family: sedan;
+        color: #000;
+        font-size: 30px;
+    }
+    
+    .story-text {
+        margin: 8% 0 0 5%;
+        padding: 2% 0 12% 0;
+        text-align: left;
+        font-family: roboto;
+        font-size: 18px;
+        line-height: 15px;
+    
+    }
+    
+    .cont-img {
+    
+        width: 359px;
+        height: 500px;
+        margin: 3% 5% 10% 0;
+    }
+    
+    .section-img {
+        height: 490px;
+        line-height: 49px;
+        margin-top: -2%;
+    }
+    
+    .business-title {
+        color: #992020;
+    }
+    
+    .family-icon {
+        margin-top: 2.5%;
+    }
+}
